@@ -1,5 +1,5 @@
-# FoodFrenzy
-FoodFrenzy is a comprehensive system designed for managing customers, inventory, and orders. It offers secure authentication, role-based access control, and database integration using MySQL. Built with Spring Boot and Thymeleaf, the application provides a seamless experience for admin and staff members.
+# FoodFren
+FoodFren is a comprehensive system designed for managing customers, inventory, and orders. It offers secure authentication, role-based access control, and database integration using MySQL. Built with Spring Boot and Thymeleaf, the application provides a seamless experience for admin and staff members.
 
 ![Screenshot 2024-10-02 123332](https://github.com/user-attachments/assets/1382d32f-3cbb-40c3-b6b5-9fc55cd5176f)
 
@@ -19,7 +19,7 @@ FoodFrenzy is a comprehensive system designed for managing customers, inventory,
 - **Backend**: Spring Boot, Java 8, Spring MVC, Spring Data JPA (Hibernate)
 - **Frontend**: Thymeleaf, HTML, CSS, JavaScript
 - **Database**: MySQL
-- **IDE**: Eclipse, Spring Tool Suite (STS)
+- **IDE**: IntelliJ IDEA, Spring Tool Suite (STS)
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ Before running this project, ensure you have the following installed:
 - Java 8
 - MySQL
 - Maven
-- Eclipse or Spring Tool Suite (STS)
+-IntelliJ IDEA or Spring Tool Suite (STS)
 
 ## Setup and Installation
 # 🎁 Donate
